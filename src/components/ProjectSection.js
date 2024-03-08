@@ -16,7 +16,7 @@ const ProjectSection = ({img1 , img2 , title1 , desc1 , title2 , desc2 , link1 ,
     <div className="card right-bottom">
         <div className="">
           <img src={img2} alt="" className='project-img' />
-          <a href={link2}><h3 className="explore-btn" style={{left : "45%"}}>Explore</h3></a>
+          <a href={link2}><h3 className="explore-btn-2" >Explore</h3></a>
         </div>
         <div className="project-content">
           <h3 className='project-title'>{title2}</h3>
