@@ -309,7 +309,7 @@ a{
 
   .projects-container {
     margin-top: 25rem;
-    margin-bottom: 9rem;
+    margin-bottom: 15rem;
   }
 
   .project-section {
@@ -337,11 +337,11 @@ a{
   }
 
   .card .project-title {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   .card .project-desc {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   .explore-btn {
